@@ -1,0 +1,32 @@
+{
+    "navbar": {
+        "Company": {
+            "Company": "Company",
+            "About": "About",
+            "Contact": "Contact",
+            "News": "News"
+        },
+        "Discography": {
+            "Discography": "Discography",
+            "Artist": "Artist",
+            "Biografy": "Biography",
+            "Albums": "Albums",
+            "Videos": "Videos"
+        },
+        "Services": {
+            "Services": "Services",
+            "Production": "Production & \nComposition",
+            "Distribution": "Distribution",
+            "Promotion": "Promotion",
+            "Audiovisual": "Audiovisual",
+            "Legal": "Legal"
+        },
+        "PlayList": {
+            "PlayList": "PlayList",
+            "Featured": "Featured",
+            "News": "News",
+            "Specials": "Specials"
+        },
+        "Phrase": "Obsession & Art."
+    }
+}
